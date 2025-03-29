@@ -1,12 +1,17 @@
-# cs6120-s25-project
+# CS 6120 - NLP - Spring 2025 Project
 
 ## Overview
 
-This project is part of CS 6120 for Spring 2025 and aims to build a Retrieval-Augmented Generation (RAG) based chatbot. The system is designed to answer academic and administrative questions for both students and staff at a university by combining document retrieval with language model generation.
+This project is part of `CS 6120 - Natural Language Processing` for Spring 2025 and aims to build a Retrieval-Augmented
+Generation (RAG) based chatbot.
+
+The system is designed to answer academic and administrative questions for both students
+and staff at a university by combining document retrieval with language model generation.
 
 ## Project Structure
+
 ```
-cs6120-s25-project/
+s25-project/
 ├── models/
 │   ├── __init__.py
 │   └── entities.py
@@ -35,11 +40,11 @@ cs6120-s25-project/
 ## How to Run
 
 1. Clone the repository:
-    `git clone [REPO]`
+   `git clone [REPO]`
 2. Navigate to the project directory:
-    `cd cs6120-s25-project`
+   `cd cs6120-s25-project`
 3. Run the main pipeline:
-    `python main.py`
+   `python main.py`
 
 ## Future Work
 
