@@ -42,7 +42,7 @@ s25-project/
 1. Clone the repository:
    `git clone [REPO]`
 2. Navigate to the project directory:
-   `cd cs6120-s25-project`
+   `cd s25-project`
 3. Run the main pipeline:
    `python main.py`
 
@@ -52,7 +52,3 @@ s25-project/
 - Expand the data ingestion pipeline.
 - Enhance agentic decision-making logic.
 - Add testing and continuous integration.
-
-## License
-
-[Specify your license here]
